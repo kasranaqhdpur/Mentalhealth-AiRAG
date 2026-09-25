@@ -1,3 +1,5 @@
+[🇮🇷 فارسی](./README.md) | [🇬🇧 English](./README(EN).md) | [🇩🇪 Deutsch](./README(DE).md)
+
 # 🧠 RAG Pipeline — From Data Ingestion to Vector DB
 
 > A complete RAG (Retrieval-Augmented Generation) pipeline for loading, splitting, embedding, and querying documents (PDF & TXT) using LangChain and Ollama.
