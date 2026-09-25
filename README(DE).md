@@ -1,3 +1,5 @@
+[🇮🇷 فارسی](./README.md) | [🇬🇧 English](./README(EN).md) | [🇩🇪 Deutsch](./README(DE).md)
+
 # 🧠 RAG-Pipeline — Von der Datenerfassung bis zur Vektordatenbank
 
 > Eine vollständige RAG-Pipeline (Retrieval-Augmented Generation) zum Laden, Aufteilen, Einbetten und Abfragen von Dokumenten (PDF & TXT) mit LangChain und Ollama.
